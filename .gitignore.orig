@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+=======
+*.class
+*.log
+>>>>>>> 3b4011fbd811b2bb18568110c1dd3c8e8d8f56ee
